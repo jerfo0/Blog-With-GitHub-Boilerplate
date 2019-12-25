@@ -14,13 +14,13 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "9i57"
+site_name = "生活碎片"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "杰夫"
 email = "jerfo0@vip.qq.com"
 author_homepage = "https://www.it520.org"
-description = "静态博客的尝试"
+description = "记录零零碎碎..."
 key_words = ['就爱吾妻', '9i57', '杰夫', 'blog']
 language = 'zh-CN'
 external_links = [
@@ -52,7 +52,7 @@ social_links = [
     {
         "name": "B站",
         "url": "https://space.bilibili.com/19128387",
-        "icon": "gi gi-twitter"
+        "icon": "gi gi-bilibili"
     },
   
     {
