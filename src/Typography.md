@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: 这是关于md格式文章写作的语法示例
 slug: typography
 date: 2019-12-18 16:50
 status: publish
