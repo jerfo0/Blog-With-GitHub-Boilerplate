@@ -28,8 +28,7 @@ external_links = [
         "name": "it520",
         "url": "https://www.it520.org/",
         "brief": "杰夫的个人博客"
-    },
-
+    }
 ]
 nav = [
     {
