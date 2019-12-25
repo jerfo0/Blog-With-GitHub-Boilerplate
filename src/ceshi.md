@@ -16,4 +16,10 @@ excerpt: 我的第一篇文章-测试用
 
 这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！测试用
 
+这是本地修改后的一篇文章，测试命令是否可以被执行
+
+git add .
+git commit -m "添加修改"
+git push
+
 ![幽灵公主剧照](./images/Mononoke_Hime.jpg)
