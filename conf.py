@@ -14,26 +14,22 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "徐元霸的个人博客"
+site_name = "9i57"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "杰夫"
 email = "jerfo0@vip.qq.com"
-author_homepage = "https://www.imalan.cn"
-description = "这里是博客的个人描述"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+author_homepage = "https://www.it520.org"
+description = "静态博客的尝试"
+key_words = ['就爱吾妻', '9i57', '杰夫', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "it520",
+        "url": "https://www.it520.org/",
+        "brief": "杰夫的个人博客"
     },
-    {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
-    }
+
 ]
 nav = [
     {
@@ -55,18 +51,14 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "name": "B站",
+        "url": "https://space.bilibili.com/19128387",
         "icon": "gi gi-twitter"
     },
-    {
-        "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
-        "icon": "gi gi-github"
-    },
+  
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/jerfo0",
         "icon": "gi gi-weibo"
     }
 ]
