@@ -1,6 +1,6 @@
 ---
 layout: post
-title:终于决定了这个博客写点什么了，回忆过往吧
+title: 终于决定了这个博客写点什么了，回忆过往吧
 slug: my-first-awesome-post
 date: 2019-12-26 18:06
 status: publish
