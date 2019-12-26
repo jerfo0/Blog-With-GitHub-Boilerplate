@@ -1,11 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>生活碎片</title><updated>2019-12-25T14:22:23.859750+08:06</updated><author><name>杰夫</name><email>jerfo0@vip.qq.com</email></author><link href="/" rel="alternate"/><generator uri="http://lkiesow.github.io/python-feedgen" version="0.8.0">python-feedgen</generator><logo>${static_prefix}logo.png</logo><subtitle>记录零零碎碎...</subtitle><entry><id>/archives/my-first-awesome-post/</id><title>我的第一篇文章-测试用</title><updated>2019-12-25T14:22:23.859834+00:00</updated><author><name>杰夫</name><email>jerfo0@vip.qq.com</email><uri>https://www.it520.org</uri></author><content>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！测试用&lt;/p&gt;
-&lt;p&gt;这是本地修改后的一篇文章，测试命令是否可以被执行&lt;/p&gt;
-&lt;p&gt;git add .
-git commit -m "添加修改"
-git push&lt;/p&gt;
-&lt;p&gt;&lt;figure class="pswp-item" style="flex: 92.88888888888889" data-width="836" data-height="450"&gt;&lt;img src="https://cdn.jsdelivr.net/gh/jerfo0/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" alt="幽灵公主剧照" /&gt;&lt;figcaption&gt;幽灵公主剧照&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/archives/my-first-awesome-post/" rel="alternate"/><published>2019-12-17T20:34:00+08:06</published></entry><entry><id>/archives/typography/</id><title>这是关于md格式文章写作的语法示例</title><updated>2019-12-25T14:22:23.859793+00:00</updated><author><name>AlanDecode</name><email>jerfo0@vip.qq.com</email><uri>https://www.it520.org</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>记忆里的小碎片</title><updated>2019-12-26T12:18:57.027993+08:06</updated><author><name>杰夫</name><email>jerfo0@vip.qq.com</email></author><link href="/" rel="alternate"/><generator uri="http://lkiesow.github.io/python-feedgen" version="0.8.0">python-feedgen</generator><logo>${static_prefix}logo.png</logo><subtitle>我的记忆里装的都是美好...</subtitle><entry><id>/archives/my-first-awesome-post/</id><title>我的第一篇文章</title><updated>2019-12-26T12:18:57.028172+00:00</updated><author><name>&lt;填写你的名字&gt;</name><email>jerfo0@vip.qq.com</email><uri>https://www.it520.org</uri></author><content>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！&lt;/p&gt;
+</content><link href="/archives/my-first-awesome-post/" rel="alternate"/><published>2019-12-17T20:34:00+08:06</published></entry><entry><id>/archives/typography/</id><title>这是关于md格式文章写作的语法示例</title><updated>2019-12-26T12:18:57.028115+00:00</updated><author><name>AlanDecode</name><email>jerfo0@vip.qq.com</email><uri>https://www.it520.org</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -84,4 +79,11 @@ git push&lt;/p&gt;
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry></feed>
+&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/my-first-awesome-post/</id><title>终于决定了这个博客写点什么了，回忆过往吧</title><updated>2019-12-26T12:18:57.028066+00:00</updated><author><name>杰夫</name><email>jerfo0@vip.qq.com</email><uri>https://www.it520.org</uri></author><content>&lt;p&gt;！&lt;a href="./images/rijiben.jpeg"&gt;小时候的日记本&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我有好几个笔记本，是从初中，高中，大学时候写的一些日记，我觉得倍感珍惜，去哪里都带着，自己偶尔看过1-2次，觉得好有意思，之后就没怎么看了.&lt;/p&gt;
+&lt;p&gt;想想为什么我如此珍惜这些日记本呢？&lt;/p&gt;
+&lt;p&gt;可能是因为这记录了我的成长，记录了我的青春。哪几年真的是非常快乐，有很多很多的促膝长谈，有很多很多对未来的憧憬.&lt;/p&gt;
+&lt;p&gt;现在是觉得挺幼稚的，但那种感觉是十分美好的，是对生活，对人性，对理想非常直接而真实的展望，似乎是源于人本能的东西.&lt;/p&gt;
+&lt;p&gt;我觉得我不应该把这些东西，这些感觉给遗忘了.&lt;/p&gt;
+&lt;p&gt;就想在海滩边捡贝壳一样，一点一点的捡起来，勿忘真实的自己，做真实的自己.&lt;/p&gt;
+</content><link href="/archives/my-first-awesome-post/" rel="alternate"/><published>2019-12-26T18:06:00+08:06</published></entry></feed>
