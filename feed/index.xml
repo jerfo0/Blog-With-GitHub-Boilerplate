@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 26 Dec 2019 13:09:51 +0806</lastBuildDate><pubDate>Thu, 26 Dec 2019 13:09:51 +0806</pubDate><item><title>这是关于md格式文章写作的语法示例</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>记忆里的小碎片</title><link>/</link><description>我的记忆里装的都是美好...</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>记忆里的小碎片</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 26 Dec 2019 13:41:32 +0806</lastBuildDate><pubDate>Thu, 26 Dec 2019 13:41:32 +0806</pubDate><item><title>这是关于md格式文章写作的语法示例</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -85,4 +85,12 @@
 &lt;p&gt;现在是觉得挺幼稚的，但那种感觉是十分美好的，是对生活，对人性，对理想非常直接而真实的展望，似乎是源于人本能的东西.&lt;/p&gt;
 &lt;p&gt;我觉得我不应该把这些东西，这些感觉给遗忘了.&lt;/p&gt;
 &lt;p&gt;就想在海滩边捡贝壳一样，一点一点的捡起来，勿忘真实的自己，做真实的自己.&lt;/p&gt;
-</description><author>jerfo0@vip.qq.com (杰夫)</author><guid isPermaLink="true">/archives/jueding/</guid><pubDate>Thu, 26 Dec 2019 18:06:00 +0806</pubDate></item></channel></rss>
+</description><author>jerfo0@vip.qq.com (杰夫)</author><guid isPermaLink="true">/archives/jueding/</guid><pubDate>Thu, 26 Dec 2019 18:06:00 +0806</pubDate></item><item><title>你小时候拉过寄生虫吗？</title><link>/archives/jishengchong/</link><description>&lt;p&gt;小时候是玩泥巴长大的，喝的水可能也不注意，也不健康，所以我印象特别深刻的是，那个时候经常拉粑粑的时候，会出来跟蚯蚓一般大小，但比蚯蚓要硬的寄生虫。&lt;/p&gt;
+&lt;p&gt;这个在小时候是常见的事情，有的时候因为拉不出来，用手去把这种寄生虫给拽出来。&lt;/p&gt;
+&lt;p&gt;说起来可能有点恶心，但大家也应该理解，生于农村的80后小时候有多艰辛了吧，不过我们童年是快乐的。&lt;/p&gt;
+&lt;p&gt;小伙伴们对于这种事情也不以为意，大部分都会很好奇，都会争相围过来看看这是个啥。&lt;/p&gt;
+&lt;p&gt;也不会跟家长说，说了家长估计也不会当做一回事情。&lt;/p&gt;
+&lt;p&gt;还好这种事情在记忆里并不是很多，有那么一两次吧，其中自己拽出来的一次特别印象深刻，看着它在地面蹦个不停，可能是不能寄生在温暖的环境里而感觉到特别的痛苦吧。&lt;/p&gt;
+&lt;p&gt;想想其他几次不印象深刻的原因，有可能是直接就拉到粪坑里去了，混在粑粑里，看不到它的活动。&lt;/p&gt;
+&lt;p&gt;其实我们身体活着的不仅仅是我们自己呢，还有很多很多其他的生命呢！&lt;/p&gt;
+</description><author>jerfo0@vip.qq.com (杰夫)</author><guid isPermaLink="true">/archives/jishengchong/</guid><pubDate>Thu, 26 Dec 2019 21:29:00 +0806</pubDate></item></channel></rss>
