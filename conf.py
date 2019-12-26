@@ -14,14 +14,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "生活碎片"
+site_name = "记忆里的小碎片"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "杰夫"
 email = "jerfo0@vip.qq.com"
 author_homepage = "https://www.it520.org"
-description = "记录零零碎碎..."
-key_words = ['就爱吾妻', '9i57', '杰夫', 'blog']
+description = "我的记忆里装的都是美好..."
+key_words = ['就爱吾妻', '9i57', '杰夫', '记忆']
 language = 'zh-CN'
 external_links = [
     {
