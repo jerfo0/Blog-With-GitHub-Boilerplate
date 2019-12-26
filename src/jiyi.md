@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 终于决定了这个博客写点什么了，回忆过往吧
-slug: my-first-awesome-post
+slug: jueding
 date: 2019-12-26 18:06
 status: publish
 author: 杰夫
@@ -13,7 +13,7 @@ tags:
 excerpt: 今天突然想想，就写成自己能记起来的一些回忆吧！我越来越很少去回忆过往了，想想过往还是有很多值得记录的事情的呢！
 ---
 
-！[小时候的日记本](./images/rijiben.jpeg)
+![小时候的日记本](./images/rijiben.jpeg)
 
 我有好几个笔记本，是从初中，高中，大学时候写的一些日记，我觉得倍感珍惜，去哪里都带着，自己偶尔看过1-2次，觉得好有意思，之后就没怎么看了.
 
