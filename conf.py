@@ -28,6 +28,11 @@ external_links = [
         "name": "it520",
         "url": "https://www.it520.org/",
         "brief": "杰夫的个人博客"
+    },
+    {
+        "name": "海贼王",
+        "url": "https://tieba.baidu.com/f?kw=%E6%B5%B7%E8%B4%BC%E7%8E%8B&fr=index",
+        "brief": "一般周五更新，休刊严重"
     }
 ]
 nav = [
