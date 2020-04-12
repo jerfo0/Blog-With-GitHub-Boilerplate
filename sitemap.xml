@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/dajia/</loc>
+        <lastmod>2020-04-12</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/bupahei/</loc>
         <lastmod>2020-03-24</lastmod>
         <changefreq>always</changefreq>
