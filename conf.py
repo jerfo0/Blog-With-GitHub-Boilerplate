@@ -19,21 +19,17 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "杰夫"
 email = "jerfo0@vip.qq.com"
-author_homepage = "https://www.it520.org"
+author_homepage = "https://www.9i57.com/"
 description = "我的记忆里装的都是美好..."
 key_words = ['就爱吾妻', '9i57', '杰夫', '记忆']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "it520",
-        "url": "https://www.it520.org/",
-        "brief": "杰夫的个人博客"
+        "name": "杰夫9i57",
+        "url": "https://www.9i57.com/",
+        "brief": "回到9i57.com"
     },
-    {
-        "name": "海贼王",
-        "url": "https://tieba.baidu.com/f?kw=%E6%B5%B7%E8%B4%BC%E7%8E%8B&fr=index",
-        "brief": "一般周五更新，休刊严重"
-    }
+
 ]
 nav = [
     {
